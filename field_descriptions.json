@@ -1,0 +1,10 @@
+[
+    {"datatype": "categorical", "field": "language", "unique": true, "type": "character"},
+    {"datatype": "categorical", "field": "title", "unique": true, "type": "character"},
+    {"datatype": "categorical", "field": "gender", "unique": true, "type": "character"},
+    {"datatype": "categorical", "field": "author", "unique": true, "type": "character"},
+    {"datatype": "categorical", "field": "person", "unique": true, "type": "character"},
+    {"datatype": "categorical", "field": "length", "unique": true, "type": "integer"},
+    {"datatype": "categorical", "field": "year", "unique": true, "type": "character"},
+    {"datatype": "categorical", "field": "id", "unique": true, "type": "integer"}
+]
